@@ -50,11 +50,9 @@ export default function MyCv(props) {
         Summary
       </p>
       <p class="adjust-cv" id="summary-details">
-        I'm a hard working and passionate Front-end React Developer having 6
-        months of experience and I had compleated many certificate courses
-        online as well as physical related to Front-end Development.Now I'm
-        looking for an internship in a software company to polish my existing
-        skills according to market requirements.
+        I'm a hard working and passionate Web Developer having One Year of
+        experience and I had compleated many certificate courses online as well
+        as physical related to Web Application Development.
       </p>
 
       <hr></hr>
@@ -99,6 +97,17 @@ export default function MyCv(props) {
       <hr></hr>
       <p className="bold-headings adjust-cv">Education and Training</p>
       <ul>
+        <li>
+          <span className="strong">
+            Air University Islamabad
+          </span>
+          <span>, E-9 Islamabad,</span>
+          <p className="adjust-cv">Expected in 09/2023</p>
+          <p className="strong adjust-cv">Web Application Development</p>
+        </li>
+
+        <hr className="small-lines"></hr>
+
         <li>
           <span className="strong">
             Saylani Mass Information Technology Programme
