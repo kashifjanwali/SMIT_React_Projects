@@ -1,0 +1,142 @@
+ .my-cv {
+     padding-left: 20%;
+     padding-right: 20%;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ #my-name {
+     color: cornflowerblue;
+     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+         "Lucida Sans", Arial, sans-serif;
+     padding-bottom: 0;
+     margin-bottom: 0;
+ }
+
+ .verified-badge {
+     padding-right: 40%;
+     padding-top: 3px;
+     margin: 0;
+     width: 25px;
+     float: right;
+ }
+
+ #my-profession {
+     font-size: 18px;
+     padding: 0;
+     margin-top: 0;
+     margin-bottom: 30px;
+     color: cornflowerblue;
+ }
+
+ .adjust-cv {
+     padding: 0;
+     margin-bottom: 10px;
+     margin-top: 0;
+     font-size: 18px;
+ }
+
+ hr {
+     height: 3px;
+     background-color: dodgerblue;
+ }
+
+ .bold-headings {
+     font-size: 25px;
+     font-weight: bold;
+     margin-bottom: 20px;
+ }
+
+ #summary-details {
+     font-size: 18px;
+ }
+
+.skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+ }
+
+ .skills li {
+    font-size: 17px;
+ }
+
+ .strong {
+     font-size: 16px;
+     font-weight: bold;
+ }
+
+ .small-lines {
+     height: 2px;
+ }
+
+ .strong-icons {
+     width: 40px;
+     height: 40px;
+     padding-right: 0;
+     padding-left: 5px;
+     margin: 0;
+ }
+
+ .linked-in {
+     color: #0072b1;
+ }
+
+ .fiverr {
+     color: #00b22d;
+ }
+
+ .twitter {
+     color: #00acee;
+ }
+
+ .facebook {
+     color: #3b5998;
+ }
+
+ .instagram {
+     color: rgb(205, 93, 48);
+ }
+
+ .github {
+     color: #171515;
+ }
+
+ .codementor {
+     color: lightslategrey;
+ }
+
+ .stackoverflow {
+     color: #ef8236;
+ }
+
+ .vimeo {
+     color: #86c9ef;
+ }
+
+ .arc {
+     color: antiquewhite;
+ }
+
+ .quora {
+     color: #b92b27;
+ }
+
+ .pinterset {
+     color: #c8232c;
+ }
+
+ .kjw-codings {
+     color: black;
+ }
+
+ .social-networks {
+     float: left;
+     padding-right: 77px;
+ }
+
+ #profile_image {
+     border-radius: 50%;
+     width: 200px;
+     float: right;
+ }
