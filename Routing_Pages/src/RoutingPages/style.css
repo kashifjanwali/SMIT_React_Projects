@@ -1,0 +1,17 @@
+*{
+    background-color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 3fr;
+}
+
+li {
+    list-style: none;
+}
+
+Link {
+    text-decoration: none;
+}
